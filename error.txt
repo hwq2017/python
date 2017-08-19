@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "except.py", line 8, in fun
+    print a
+NameError: global name 'a' is not defined
